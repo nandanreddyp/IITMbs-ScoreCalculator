@@ -1,4 +1,4 @@
-from ScoresCal import *
+from source import *
 def Calculate():
     global course
     print('Note: For any course, if you not attempted any quiz or ope give score as 0.')
